@@ -1,0 +1,11 @@
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\bin\Release\RandomSelect.exe.config
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.frmMain.resources
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.Resources.resources
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.ReturnedValues.resources
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.vbproj.GenerateResource.Cache
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\bin\Release\RandomSelect.exe
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\bin\Release\RandomSelect.pdb
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\bin\Release\RandomSelect.xml
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.exe
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.xml
+C:\Users\Timur\Documents\GitHub\RandomSelect\Solution\RandomSelect\obj\Release\RandomSelect.pdb

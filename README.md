@@ -3,7 +3,7 @@ RandomSelect
 
 A simple program that gives returns a specified number
 of random values give user provided information.
-Copyright (C)  2013  Timur Lavrenti Kiyivinski
+Copyright (C)  2014  Timur Lavrenti Kiyivinski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
